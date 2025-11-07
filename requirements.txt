@@ -1,0 +1,4 @@
+requests
+python-dotenv
+pydub
+# GUI界面使用Python标准库Tkinter，无需额外安装
